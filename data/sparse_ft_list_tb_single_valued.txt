@@ -1,0 +1,19 @@
+# no empty line is allowed
+# fmt: slot_name \t slot_index
+slot_1	1
+slot_2	2
+slot_3	3
+slot_4	4
+slot_5	5
+slot_6	6
+slot_7	7
+slot_8	8
+slot_9	9
+slot_10	10
+slot_11	11
+slot_12	12
+slot_13	13
+slot_14	14
+slot_15	15
+slot_16	16
+slot_17	17
