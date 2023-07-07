@@ -1,4 +1,8 @@
 # CL4CVR
 Contrastive Learning for Conversion Rate Prediction
 
-Under construction (will be ready in July, 2023)
+TensorFlow (TF) version
+1.12.0
+
+# run_the_code
+nohup sh -x train.sh > xxx.out &
