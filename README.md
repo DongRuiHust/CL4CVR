@@ -5,4 +5,4 @@ TensorFlow (TF) version
 
 1.12.0
 
-nohup sh -x train.sh > xxx.out &
+run_the_code: nohup sh -x train.sh > xxx.out &
